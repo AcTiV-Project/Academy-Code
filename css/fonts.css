@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@1&family=Oswald&family=Pacifico&family=Phudu:wght@300&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600&display=swap');
+
+
+
+
+
+h1{
+    font-family: 'Fondamento', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Phudu', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+a{
+    font-family: 'Fondamento', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Phudu', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+p{
+    font-family: 'Fondamento', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Phudu', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    line-height: 30px;
+}
+label{
+    font-family: 'Fondamento', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Phudu', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+pre{
+    font-family: 'JetBrains Mono', monospace;
+}
